@@ -1,0 +1,23 @@
+.design {
+    background-color: yellowgreen;
+    color:blue;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 50px;
+    margin: 80px;
+    border: 15px solid black;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.design2 {
+    background-color: aquamarine;
+}
+.gahd{
+    font-size: 50px;
+}
+.flex-div{
+    display: flex  ;
+}
