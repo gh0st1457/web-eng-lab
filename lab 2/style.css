@@ -1,0 +1,118 @@
+.whole{
+    border: 15px solid purple; 
+}
+.navbar{
+    
+    display: flex;
+    justify-content: center;
+    background-color: teal;
+    align-items: center;
+    padding-top: 20px;
+    height: 100px;
+    width: 98%;
+    margin: 10px;
+}
+.sidebar{
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+    align-items: center;
+    padding-top: 20px;
+    height: 300px;
+    width: 15%;
+    margin: 10px;
+
+    
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    background-color: cyan;
+    align-items: center;
+    padding-top: 20px;
+    height: 150px;
+    width: 70%;
+    margin: 10px;
+
+    
+}
+.content1{
+    display: flex;
+    justify-content: center;
+    background-color: lightgreen;
+    align-items: center;
+    padding-top: 20px;
+    height: 150px;
+    width: 22%;
+    margin: 10px;
+
+    
+}
+.content2{
+    display: flex;
+    justify-content: center;
+    background-color: aquamarine;
+    align-items: center;
+    padding-top: 20px;
+    height: 150px;
+    width: 22%;
+    margin: 10px;
+
+    
+}
+.content3{
+    display: flex;
+    justify-content: center;
+    background-color: aqua;
+    align-items: center;
+    padding-top: 20px;
+    height: 150px;
+    width: 22%;
+    margin: 10px;
+
+    
+}
+.contents{
+    display: flex;
+    flex-direction: row;
+    
+    align-items: center;
+    padding-top: 20px;
+    height: 200px;
+    width: 87%;
+    margin: 10px;
+
+    
+}
+.sidepiece{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-top: 20px;
+    
+    margin: 10px;
+
+    
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: cyan;
+    align-items: center;
+    padding-top: 20px;
+    height: 100px;
+    width: 98%;
+    margin: 10px;
+
+}
+.mainside{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+    height: 300px;
+    width: 82%;
+    margin: 10px;
+
+    
+}
